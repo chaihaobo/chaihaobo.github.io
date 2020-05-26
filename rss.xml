@@ -6,8 +6,17 @@
     <atom:link href="https://chaihaobo.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <description/>
     <generator>Solo, v4.1.0, https://solo.b3log.org</generator>
-    <lastBuildDate>Tue, 26 May 2020 10:41:14 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 12:15:42 +0800</lastBuildDate>
     <language>zh-cn</language>
+    <item>
+      <title>docker-compose.yml 配置文件详解</title>
+      <link>https://chaihaobo.github.io/articles/2020/05/26/1590466357528.html</link>
+      <description/>
+      <author>chaihaobo</author>
+      <guid>https://chaihaobo.github.io/articles/2020/05/26/1590466357528.html</guid>
+      <category>待分类</category>
+      <pubDate>Tue, 26 May 2020 12:12:37 +0800</pubDate>
+    </item>
     <item>
       <title>Flink的Watermark机制</title>
       <link>https://chaihaobo.github.io/articles/2020/05/25/1590412102084.html</link>
@@ -43,8 +52,8 @@
 </ol>]]></description>
       <author>chaihaobo</author>
       <guid>https://chaihaobo.github.io/my-github-repos</guid>
-      <category>开源</category>
       <category>GitHub</category>
+      <category>开源</category>
       <pubDate>Sat, 23 May 2020 11:37:26 +0800</pubDate>
     </item>
     <item>

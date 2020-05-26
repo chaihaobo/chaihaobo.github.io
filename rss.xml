@@ -4,10 +4,28 @@
     <title>chaihaobo </title>
     <link>https://chaihaobo.github.io</link>
     <atom:link href="https://chaihaobo.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-    <description>记录精彩的程序人生</description>
+    <description/>
     <generator>Solo, v4.1.0, https://solo.b3log.org</generator>
-    <lastBuildDate>Sat, 23 May 2020 22:46:31 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 10:41:14 +0800</lastBuildDate>
     <language>zh-cn</language>
+    <item>
+      <title>Flink的Watermark机制</title>
+      <link>https://chaihaobo.github.io/articles/2020/05/25/1590412102084.html</link>
+      <description/>
+      <author>chaihaobo</author>
+      <guid>https://chaihaobo.github.io/articles/2020/05/25/1590412102084.html</guid>
+      <category>Flink</category>
+      <pubDate>Mon, 25 May 2020 21:08:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>linux中单引号与双引号的区别与用法</title>
+      <link>https://chaihaobo.github.io/articles/2020/05/25/1590398849988.html</link>
+      <description/>
+      <author>chaihaobo</author>
+      <guid>https://chaihaobo.github.io/articles/2020/05/25/1590398849988.html</guid>
+      <category>Linux</category>
+      <pubDate>Mon, 25 May 2020 17:27:57 +0800</pubDate>
+    </item>
     <item>
       <title>实用站点&amp;软件</title>
       <link>https://chaihaobo.github.io/articles/2020/05/23/1590214208045.html</link>
